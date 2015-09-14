@@ -26,6 +26,12 @@ alias gitdo='git pull'
 alias gitcom='git commit -m'
 alias gita='git add'
 
+## Colorful one line graphed git log
+alias gitl='git log --decorate --graph --all --oneline --abbrev-commit --color'
+
+## Expanded version of above command
+alias gitlx='git log --decorate --graph --all --color'
+
 ## list all
 alias lla='ls -la'
 
