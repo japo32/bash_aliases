@@ -35,4 +35,11 @@ alias gitlx='git log --decorate --graph --all --color'
 ## list all
 alias lla='ls -la'
 
+## commom command shortcuts
+alias apres='sudo service apache2 restart'
+alias edho='sudo vi /etc/hosts'
+alias pglogin='sudo -u postgres psql postgres'
+alias mslogin='mysql -uroot -p'
+
+
 
