@@ -23,7 +23,8 @@ alias gitc='git checkout'
 alias gitf='git fetch'
 alias gitup='git push'
 alias gitdo='git pull'
-alias gitcom='git commit -m'
+alias gitcm='git commit -m'
+alias gitcma='git commit --amend'
 alias gita='git add'
 
 ## Colorful one line graphed git log
