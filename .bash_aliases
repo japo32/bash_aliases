@@ -26,6 +26,9 @@ alias gitdo='git pull'
 alias gitcm='git commit -m'
 alias gitcma='git commit --amend'
 alias gita='git add'
+alias gitcp='git cherry-pick'
+alias gitrh='git reset --hard'
+alias gitri='git rebase -i'
 
 ## Colorful one line graphed git log
 alias gitl='git log --decorate --graph --all --oneline --abbrev-commit --color'
